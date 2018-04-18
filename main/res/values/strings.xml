@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">copy</string>
+    <string name="_5by5">5by5</string>
+    <string name="_3by3">3by3</string>
+    <string name="play">play</string>
+    <string name="reset">reset</string>
+    <string name="single_player">single player</string>
+    <string name="double_players">double players</string>
+    <string name="stop">stop</string>
+</resources>
